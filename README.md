@@ -20,6 +20,8 @@ I think that I struggle the most is that I feel betrayed for my body. I did ever
 
 I know that Mexico is a third world country, so here cancer means death, but I'm happy that you give me hope when I needed the most. I'm in remission from leukemia and leukemia cutis. I'm so thankful with God. I'm +50 days from my STC. 
 
+![My story](/assets/Foto1.jpg)
+
 Donations will help me relieve the financial burdens of things like the cost of transportation, hospital residence & parking, help paying for my medications and much more. Anything that you can contribute to me will be immensely appreciated. 
 
 Words cannot describe how thankful I'm to those that have already shown so much support. I want to send a huge thanks and to let you know it is greatly appreciated!
