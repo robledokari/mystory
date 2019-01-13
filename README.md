@@ -1,4 +1,4 @@
-## Welcome to MyStory
+## Welcome to Karina's Story
 
 Hi! My name is Karina Robledo.  I'm 24 years old from Mexico. I graduated from college at 22 years old and I got a job like software engineer. I'm the older sister and my two brothers are still studying. 
 
@@ -35,7 +35,24 @@ Prayer, positive vibes, and  encouragement are greatly appreciated and also need
 <img alt="" border="0" src="https://www.paypal.com/en_MX/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-### Support or Contact
+### Contact
 
+<ul>
+{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+{% endif %}
+
+{% if site.instagram_username %}
+  <li>
+    <a href="https://www.instagram.com/{{ site.instagram_username }}">
+      <i class="fa fa-instagram"></i> Instagram
+    </a>
+  </li>
+{% endif %}
+</ul>
 
 
