@@ -26,6 +26,15 @@ Words cannot describe how thankful I'm to those that have already shown so much 
 
 Prayer, positive vibes, and  encouragement are greatly appreciated and also needed.
 
+<form class="paypalform" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="{{ site.donations.paypal.id | default: 'UNCONFIGURED' }}">
+    <button class="donations uk-button uk-button-primary" name="submit">
+      <span>{{ site.donations.paypal.text | default: 'Donations' }}</span>
+    </button>
+    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
