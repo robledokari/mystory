@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
 ## Welcome to Karina's Story
 
 Hi! My name is Karina Robledo.  I'm 24 years old from Mexico. I graduated from college at 22 years old and I got a job like software engineer. I'm the older sister and my two brothers are still studying. 
